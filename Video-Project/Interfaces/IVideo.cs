@@ -11,6 +11,5 @@ namespace Video_Project.Interfaces
         public void ArchiveVideo(Video video);
         public void DeleteVideo(int id);
 
-
     }
 }
